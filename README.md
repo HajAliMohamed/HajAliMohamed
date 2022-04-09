@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I’m Mohamed Haj Ali  👨‍💻 </h1>
 
-<h2 align="center">Fullstack Web Developer And Learner </h2>
+<h2 align="center">Frontend Web Developer And Learner </h2>
 
 <p>I'm...</p>
 <p>currently software engineer student.<br/>
