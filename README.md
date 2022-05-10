@@ -3,7 +3,8 @@
 <h2 align="center">Frontend Web Developer And Learner </h2>
 
 <p>I'm...</p>
-<p>currently software engineer student.<br/>
+<p>currently a Computer Science Student
+.<br/>
 learning new technologies and improving my skills day by day.</p>
 
 <h3> Languages & Tools I Use: </h3>
