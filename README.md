@@ -2,7 +2,6 @@
 
 <h2 align="center"> Web Developer</h2>
 
-<p>I'm...</p>
 <p>currently i'm a vue js - Laravel developer
 .<br/>
 learning new technologies and improving my skills day by day.</p>
